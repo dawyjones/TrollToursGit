@@ -21,7 +21,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>TrollTours homepage</title>
     </head>
-    <header>11111111111111111Hei eg heitte Henrik develleleloper</header>
+    <header>1111144444444444444111111111111Hei eg heitte Henrik develleleloper</header>
     <body>
         
         <h1>Welcome to TrollTours</h1>
