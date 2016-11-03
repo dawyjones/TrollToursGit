@@ -1,0 +1,26 @@
+body {
+    background-image: url("https://res-1.cloudinary.com/simpleview/image/upload/c_limit,f_auto,h_1200,q_75,w_1200/v1/clients/norway/unesco-geirangerfjord-skagefla-waterfall-2-1_6cc6a64a-a204-432e-8753-01ef2080f24e.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    width:100%;
+	
+
+    background-attachment: fixed;
+    background-size: 100%;
+}
+p {
+	
+	background-color:rgba(255,255,255,0.7);
+	float: left;
+	font-size: 16px;
+	max-width: 900px;
+        color: green;
+} 
+
+header{
+	position: center;
+}
+h1{
+	background-color:rgba(255,255,255,0.7);
+	position: center;
+}
