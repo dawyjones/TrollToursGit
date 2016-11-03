@@ -22,9 +22,7 @@
         <title>TrollTours homepage</title>
     </head>
     <header>Hei eg heitte Henrik
-    Need more stuff
-    asd 
-    asd</header>
+    HOla que pasas</header>
     <body>
         
         <h1>Welcome to TrollTours</h1>
